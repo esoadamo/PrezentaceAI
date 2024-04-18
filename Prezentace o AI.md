@@ -328,19 +328,9 @@ Adam Hlaváček @ GymBK, 2024
 
 ---
 
-## AI a online bezpečnost
+## AI a hrozby
 
-- spoofing
-- phising
-	- časté formy
-	- jak podvrhout email
-- https
-	- kradení hesel
-	- bezpečnostní varování prohlížeče
-- správce hesel
-- nejbezpečnější je hesla nepoužívat
-
---
+---
 
 ### Foto Deepfakes
 
@@ -374,3 +364,28 @@ Adam Hlaváček @ GymBK, 2024
 - [Sexuálně laděné falešné fotky Taylor Swift zaplavily web a mnohé šokovaly](https://www.idnes.cz/zpravy/zahranicni/taylor-swift-fotky-umele-inteligence-sexualni-ai-deep-fake-fotky.A240126_211143_zahranicni_remy)
 
 ![[Pasted image 20240418174639.png]]
+
+---
+## AI a online bezpečnost
+
+--
+
+<a class="autolink" target="_blank" href="https://websec.adamhlavacek.com/prezentace/">websec.adamhlavacek.com/prezentace/</a>
+
+
+---
+
+## Kam dál?
+
+--
+
+- [Padlet o AI](https://padlet.com/vaclavmanena/um-l-inteligence-66bkwsopx5mub4n1?fbclid=IwAR35mEJazSznSriZS282UL-Ugh42R6C2d6juzbYqoFSYloAVLqDaMSvTtgM)
+- [revize ICT RVP v ZV](https://revize.edu.cz/ke-stazeni#ai)
+
+---
+
+
+## To by bylo všechno!
+
+Děkuji za pozornost!
+Otázky?
