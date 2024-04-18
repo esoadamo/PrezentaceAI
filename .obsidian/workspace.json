@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Prezentace o AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "b8edd6ff2aab869f",
+        "id": "5ed924dcbdbdf7eb",
         "type": "tabs",
         "children": [
           {
-            "id": "c4afcab6eac12351",
+            "id": "30146c8f2b05616a",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Prezentace o AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Prezentace o AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Prezentace o AI.md"
               }
             }
           }
@@ -161,33 +161,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c4afcab6eac12351",
+  "active": "032343e2ef8bce82",
   "lastOpenFiles": [
+    "assets/ahojGymBk.mp3",
+    "assets/Pasted image 20240418174639.png",
+    "assets/Pasted image 20240418165325.png",
+    "Prezentace o AI.md",
+    "assets/Pasted image 20240418173922.png",
+    "assets/pavelDeepfake.mp4",
+    "assets/Pasted image 20240418170925.png",
+    "assets/Pasted image 20240418165039.png",
+    "assets/Pasted image 20240418164728.png",
+    "assets/Pasted image 20240418162423.png",
+    "assets/Pasted image 20240418162122.png",
+    "assets/Pasted image 20240418161726.png",
+    "assets/Pasted image 20240418161602.png",
+    "assets/suno1.mp3",
+    "assets/sciobotIntro.mp4",
+    "assets/suno2.mp3",
+    "Výuka s umělou inteligencí 1.mp3",
+    "assets",
     "export/Welcome/plugin/chalkboard/README.md",
     "export/Welcome/plugin/chalkboard/_style.css",
-    "export/Welcome/plugin/chalkboard/img/blackboard.png",
-    "export/Welcome/plugin/chalkboard/img/boardmarker-black.png",
-    "export/Welcome/plugin/chalkboard/img/boardmarker-blue.png",
-    "export/Welcome/plugin/chalkboard/img/boardmarker-green.png",
-    "export/Welcome/plugin/chalkboard/img/boardmarker-orange.png",
-    "export/Welcome/plugin/chalkboard/img/boardmarker-purple.png",
-    "export/Welcome/plugin/chalkboard/img/boardmarker-red.png",
-    "export/Welcome/plugin/chalkboard/img/boardmarker-yellow.png",
-    "export/Welcome/plugin/chalkboard/img/chalk-blue.png",
-    "export/Welcome/plugin/chalkboard/img/chalk-green.png",
     "export/Welcome/plugin/chalkboard/img",
     "export/Welcome/plugin/chalkboard/plugin (copy).js",
     "export/Welcome/plugin/chalkboard/plugin.js",
-    "export/Welcome/plugin/chalkboard/style.css",
-    "export/Welcome/plugin/chalkboard",
     "export/Welcome/plugin/chart/README.md",
-    "export/Welcome/plugin/chart/chart.min.js",
-    "export/Welcome/plugin/chart/plugin.js",
-    "export/Welcome/plugin/chart",
     "export/Welcome/plugin/customcontrols/README.md",
-    "export/Welcome/plugin/customcontrols/plugin.js",
     "export/Welcome/plugin/menu/CONTRIBUTING.md",
-    "export/Welcome/plugin/menu/README.md",
-    "Welcome.md"
+    "export/Welcome/plugin/menu/README.md"
   ]
 }
