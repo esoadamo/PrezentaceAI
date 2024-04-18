@@ -1,3 +1,6 @@
+---
+title: AI & UI & AGI
+---
 # AI & UI & AGI
 
 Adam Hlaváček @ GymBK, 2024
@@ -32,7 +35,7 @@ Adam Hlaváček @ GymBK, 2024
 --
 ### Chatbot assistent
 
-![[Pasted image 20240418154155.png]]
+![[Pasted image 20240418154155.png]]<!-- .element: style="max-height: 55vh" -->
 
 --
 
@@ -43,7 +46,7 @@ Adam Hlaváček @ GymBK, 2024
 --
 ### Nehráčské postavy ve hrách
 
-![[Pasted image 20240418154600.png]]
+![[Pasted image 20240418154600.png]]<!-- .element: style="max-height: 45vh" -->
 
 *[Zdroj](https://www.flickr.com/photos/fantasy-art-and-portraits/4371793773)*
 
@@ -67,13 +70,13 @@ Adam Hlaváček @ GymBK, 2024
 - testování
 - používání
 
-![[Pasted image 20240418155147.png]]
+![[Pasted image 20240418155147.png]]<!-- .element: style="max-height: 35vh" -->
 
 --
 
 ### Husky nebo vlk?
 
-![[Pasted image 20240418165325.png]]
+![[Pasted image 20240418165325.png]]<!-- .element: style="max-height: 55vh" -->
 
 --
 ### [Llamafile](https://github.com/Mozilla-Ocho/llamafile)
@@ -96,10 +99,10 @@ Adam Hlaváček @ GymBK, 2024
 
 - obecná konverzace
 
-![[Pasted image 20240418161543.png]]
+![[Pasted image 20240418161543.png]]<!-- .element: style="max-height: 25vh" -->
 ...
 
-![[Pasted image 20240418161602.png]]
+![[Pasted image 20240418161602.png]]<!-- .element: style="max-height: 15vh" -->
 
 --
 
@@ -108,7 +111,7 @@ Adam Hlaváček @ GymBK, 2024
 - přemýšlet
 - matiku[^1]
 
-![[Pasted image 20240416094801.png]]
+![[Pasted image 20240416094801.png]]<!-- .element: style="max-height: 35vh" -->
 
 [^1]: Dá se kompenzovat matematickým submodulem
 
@@ -121,14 +124,17 @@ Adam Hlaváček @ GymBK, 2024
 - GPT-4 ~ 500 Kč/měsíc
 	- generování obrázků, pokročilé zpracovávání textu a dokumentů
 	- GPTs
+--
 
-![[Pasted image 20240418161726.png]]
+### ChatGPT
+
+![[Pasted image 20240418161726.png]]<!-- .element: style="max-height: 55vh" -->
 
 --
 
 ### GPT-4
 
-![[Pasted image 20240418165039.png]]
+![[Pasted image 20240418165039.png]]<!-- .element: style="max-height: 55vh" -->
 
 --
 
@@ -136,7 +142,7 @@ Adam Hlaváček @ GymBK, 2024
 
 - přihlášení pomocí Google účtu
 
-![[Pasted image 20240418161126.png]]
+![[Pasted image 20240418161126.png]]<!-- .element: style="max-height: 55vh" -->
 
 --
 
@@ -145,7 +151,7 @@ Adam Hlaváček @ GymBK, 2024
 - přihlášení pomocí Microsoft/Google účtu
 - Francouzský
 
-![[Pasted image 20240418160917.png]]
+![[Pasted image 20240418160917.png]]<!-- .element: style="max-height: 55vh" -->
 
 --
 
@@ -154,18 +160,18 @@ Adam Hlaváček @ GymBK, 2024
 - [Karel Poláček - Bylo nás pět (rozbor) | Čtenářský deník](https://www.cesky-jazyk.cz/ctenarsky-denik/karel-polacek/bylo-nas-pet-rozbor.html)
 - 2 PDF denně zdarma, až 200 stran
 
-![[Pasted image 20240418160254.png]]
+![[Pasted image 20240418160254.png]]<!-- .element: style="max-height: 35vh" -->
 
 --
 
 ### [DuckDuckGo chat](https://duckduckgo.com/?hps=1&q=gymn%C3%A1zium+blansko&atb=v320-1&ia=chat)
 
-![[Pasted image 20240418170925.png]]
+![[Pasted image 20240418170925.png]]<!-- .element: style="max-height: 55vh" -->
 
 --
 ### [Replika.ai](https://replika.ai/)
 
-![[Pasted image 20240418164728.png]]
+![[Pasted image 20240418164728.png]]<!-- .element: style="max-height: 55vh" -->
 
 ---
 
@@ -187,13 +193,13 @@ Adam Hlaváček @ GymBK, 2024
 --
 ### Bing images
 
-![[Pasted image 20240416110636.png]]
+![[Pasted image 20240416110636.png]]<!-- .element: style="max-height: 55vh" -->
 
 --
 
 ### Bing images
 
-![[Pasted image 20240416110901.png]]
+![[Pasted image 20240416110901.png]]<!-- .element: style="max-height: 55vh" -->
 
 --
 
@@ -237,7 +243,7 @@ Adam Hlaváček @ GymBK, 2024
 - prozatím zdarma
 
 
-<video controls>
+<video controls style="max-width: 55vh;">
 <source src="assets/sciobotIntro.mp4">
 </video>
 
@@ -247,14 +253,13 @@ Adam Hlaváček @ GymBK, 2024
 - např. [ai-advokat.cz](https://www.ai-advokat.cz/)
 - nemůže poskytovat právní poradenství
 
-![[Pasted image 20240416103401.png]]
+![[Pasted image 20240416103401.png]]<!-- .element: style="max-height: 35vh" -->
 
 --
 
 ### Spousta! dalších
 
 - [There's an AI for that](https://theresanaiforthat.com/)
-- 
 
 ---
 
@@ -273,7 +278,7 @@ Adam Hlaváček @ GymBK, 2024
 
 - např [Scribbr](https://www.scribbr.com/ai-detector/)
 
-![[Pasted image 20240418162423.png]]
+![[Pasted image 20240418162423.png]]<!-- .element: style="max-height: 45vh" -->
 
 ---
 
@@ -330,13 +335,13 @@ Adam Hlaváček @ GymBK, 2024
 
 ## AI a hrozby
 
----
+--
 
 ### Foto Deepfakes
 
 - [Fotkám už nemůžeme věřit. Pár let bude chaos, ale na obrázky od umělé inteligence si zvykneme, říká expert](https://denikn.cz/1115573/fotkam-uz-nemuzeme-verit-par-let-bude-chaos-ale-na-obrazky-od-umele-inteligence-si-zvykneme-rika-expert/)
 
-![[Pasted image 20240418173922.png]]
+![[Pasted image 20240418173922.png]]<!-- .element: style="max-height: 35vh" -->
 
 --
 
@@ -354,7 +359,7 @@ Adam Hlaváček @ GymBK, 2024
 - [Sítěmi se valí lživé video o generálu Pavlovi. Je za ním proruský účet ](https://www.seznamzpravy.cz/clanek/domaci-sitemi-se-vali-lzive-video-o-generalu-pavlovi-je-za-nim-prorusky-ucet-224034)
 	- [Twitter post](https://twitter.com/i/status/1617070375061393410)
 
-<video controls>
+<video controls style="max-height: 55%;">
 <source src="assets/pavelDeepfake.mp4">
 </video>
 
@@ -363,7 +368,7 @@ Adam Hlaváček @ GymBK, 2024
 
 - [Sexuálně laděné falešné fotky Taylor Swift zaplavily web a mnohé šokovaly](https://www.idnes.cz/zpravy/zahranicni/taylor-swift-fotky-umele-inteligence-sexualni-ai-deep-fake-fotky.A240126_211143_zahranicni_remy)
 
-![[Pasted image 20240418174639.png]]
+![[Pasted image 20240418174639.png]]<!-- .element: style="max-height: 40vh" -->
 
 ---
 ## AI a online bezpečnost
