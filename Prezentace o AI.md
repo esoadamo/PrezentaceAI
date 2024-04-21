@@ -237,6 +237,12 @@ Adam Hlaváček @ GymBK, 2024
 
 --
 
+### [Úprava videa](https://mashable.com/video/adobe-generative-ai-video)
+
+<iframe width="821" height="462" src="https://www.youtube.com/embed/6de4akFiNYM" title="Generative AI in Premiere Pro powered by Adobe Firefly | Adobe Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+--
+
 ### [ScioBot](https://priprava.scio.cz/)
 
 - tvorba kompletní přípravy na hodinu
@@ -354,7 +360,7 @@ Adam Hlaváček @ GymBK, 2024
 - [LastPass: Hackers targeted employee in failed deepfake CEO call](https://www.bleepingcomputer.com/news/security/lastpass-hackers-targeted-employee-in-failed-deepfake-ceo-call/)
 
 --
-### Video Deepfakes
+### Video Deepfakes I
 
 - [Sítěmi se valí lživé video o generálu Pavlovi. Je za ním proruský účet ](https://www.seznamzpravy.cz/clanek/domaci-sitemi-se-vali-lzive-video-o-generalu-pavlovi-je-za-nim-prorusky-ucet-224034)
 	- [Twitter post](https://twitter.com/i/status/1617070375061393410)
@@ -362,6 +368,17 @@ Adam Hlaváček @ GymBK, 2024
 <video controls style="max-height: 55%;">
 <source src="assets/pavelDeepfake.mp4">
 </video>
+
+--
+
+### Video Deepfakes II
+
+- [Microsoft’s VASA-1 can deepfake a person with one photo and one audio track](https://arstechnica.com/information-technology/2024/04/microsofts-vasa-1-can-deepfake-a-person-with-one-photo-and-one-audio-track/)
+
+<video controls style="max-height: 55%;">
+<source src="assets/monaDeepfake.mp4">
+</video>
+
 
 --
 ### Deepnude

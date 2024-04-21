@@ -6,7 +6,7 @@
       {
         "id": "d3d088056d17f7ac",
         "type": "tabs",
-        "dimension": 50.06345177664975,
+        "dimension": 50,
         "children": [
           {
             "id": "032343e2ef8bce82",
@@ -23,12 +23,12 @@
         ]
       },
       {
-        "id": "87e6e5b255b93f7e",
+        "id": "752d7375134b0a53",
         "type": "tabs",
-        "dimension": 49.93654822335025,
+        "dimension": 50,
         "children": [
           {
-            "id": "15b9a5e05c0f1014",
+            "id": "802a7e6e11177e73",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -163,7 +163,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "15b9a5e05c0f1014",
+  "active": "802a7e6e11177e73",
   "lastOpenFiles": [
     "export/Prezentace o AI/assets/Pasted image 20240418174639.png",
     "export/Prezentace o AI/assets/Pasted image 20240418173922.png",
@@ -177,6 +177,7 @@
     "export/Prezentace o AI/assets/Pasted image 20240418164728.png",
     "export/Prezentace o AI/assets/Pasted image 20240418170925.png",
     "export/Prezentace o AI/assets",
+    "assets/monaDeepfake.mp4",
     "export/Prezentace o AI/plugin/chalkboard/README.md",
     "export/Prezentace o AI/plugin/chalkboard/_style.css",
     "export/Prezentace o AI/plugin/chalkboard/img",
@@ -187,7 +188,6 @@
     "export/Prezentace o AI/plugin/chart/README.md",
     "export/Prezentace o AI/plugin/chart/chart.min.js",
     "export/Prezentace o AI/plugin/chart/plugin.js",
-    "export/Prezentace o AI/plugin/chart",
     "export/Prezentace o AI/plugin/customcontrols/README.md",
     "export/Prezentace o AI/plugin/menu/CONTRIBUTING.md",
     "export/Prezentace o AI/plugin/menu/README.md",
