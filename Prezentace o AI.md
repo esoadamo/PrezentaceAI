@@ -1,6 +1,7 @@
 ---
 title: AI & UI & AGI
 ---
+
 # AI & UI & AGI
 
 Adam Hlaváček @ GymBK, 2024
@@ -379,6 +380,47 @@ Adam Hlaváček @ GymBK, 2024
 <source src="assets/monaDeepfake.mp4">
 </video>
 
+--
+### Video Deepfakes III
+
+<video controls style="max-height: 55%;">
+<source src="assets/babisDeepfake.mp4">
+</video>
+--
+### Video Deepfakes III
+
+![[Pasted image 20240424170550.png]]
+<!-- .element: style="max-height: 55vh" -->
+
+--
+### Video Deepfakes III
+
+![[Pasted image 20240424170440.png]]
+<!-- .element: style="max-height: 55vh" -->
+
+
+--
+### Video Deepfakes III
+
+- přes [8 tisíc reklam](https://adstransparency.google.com/advertiser/AR08948420222113546241?origin=ata&region=anywhere) ([archiv](https://web.archive.org/web/20240424145750/https://adstransparency.google.com/advertiser/AR08948420222113546241?origin=ata&region=anywhere))
+
+![[Pasted image 20240424170311.png]]
+<!-- .element: style="max-height: 50vh" -->
+
+--
+### Video Deepfakes III
+
+![[Screenshot 2024-04-24 at 16-30-06 Představení nové platformy.png]]
+
+![[Screenshot 2024-04-24 at 16-30-21 Představení nové platformy.png]]
+<!-- .element: style="max-height: 30vh" -->
+
+--
+### Video Deepfakes III
+
+<iframe src="assets/mndScam.html">
+</iframe>
+<!-- .element: style="width: 95vw; height: 80vh;" -->
 
 --
 ### Deepnude
